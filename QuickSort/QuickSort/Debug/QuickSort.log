@@ -1,0 +1,13 @@
+﻿Build started 7/17/2013 8:41:23 AM.
+     1>Project "C:\Users\Mitch\Dropbox\Random Practice Stuff\C++\Algos 1\QuickSort\QuickSort\QuickSort.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt QuickSort.cpp
+         QuickSort.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mitch\Dropbox\Random Practice Stuff\C++\Algos 1\QuickSort\Debug\QuickSort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mitch\Dropbox\Random Practice Stuff\C++\Algos 1\QuickSort\Debug\QuickSort.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mitch\Dropbox\Random Practice Stuff\C++\Algos 1\QuickSort\Debug\QuickSort.lib" /MACHINE:X86 Debug\QuickSort.obj
+         QuickSort.vcxproj -> C:\Users\Mitch\Dropbox\Random Practice Stuff\C++\Algos 1\QuickSort\Debug\QuickSort.exe
+     1>Done Building Project "C:\Users\Mitch\Dropbox\Random Practice Stuff\C++\Algos 1\QuickSort\QuickSort\QuickSort.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.77
