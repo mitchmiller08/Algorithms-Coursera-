@@ -1,0 +1,1 @@
+This repo contains code generated during the Coursera course "Algorithms: Design and Analysis" by Tim Roughgarden from Stanford University.  The course covered basics of algorithms such as Big O notation, sorting algorithms, and graph theory.
